@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="question_text">Placeholder for first question...</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <string name="question_1">Do the Simpsons live on Evergreen Terrace?</string>
+</resources>
